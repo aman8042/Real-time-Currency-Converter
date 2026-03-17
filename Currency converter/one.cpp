@@ -220,6 +220,6 @@ int main() {
         cin.get();
     }
 
-    cout << "Thank you for using the currency converter.\n";
+    cout << "Thank you for using the currency converter.See you soon\n";
     return 0;
 }
